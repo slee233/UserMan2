@@ -6,11 +6,9 @@ based on MVC architecture
 - branched from master 
 - integrates UpdateUserFormController & UpdateUserController
 
-### master·ÎºÎÅÍ º¯°æµÈ Å¬·¡½º ¹× JSP
+### masterë¡œë¶€í„° ë³€ê²½ëœ í´ë˜ìŠ¤ ë° JSP
 
-- controller.RequestMapping: "/user/update"¿¡ ´ëÇÑ request mapping ¼öÁ¤
-- controller.user.UpdateUserFormController: ±â´ÉÀ» UpdateUserController¿¡ º´ÇÕÇÏ°í »èÁ¦µÊ
-- controller.user.UpdateUserController: UpdateUserFormController ±â´É Æ÷ÇÔ
-- /user/view.jsp: ¼öÁ¤ ¸µÅ©¿¡ ´ëÇÑ request URI¸¦ "/user/update" ·Î ¼öÁ¤
-     
-  
+- controller.RequestMapping: "/user/update"ì— ëŒ€í•œ request mapping ìˆ˜ì •
+- controller.user.UpdateUserFormController: ê¸°ëŠ¥ì„ UpdateUserControllerì— ë³‘í•©í•˜ê³  ì‚­ì œë¨
+- controller.user.UpdateUserController: UpdateUserFormController ê¸°ëŠ¥ í¬í•¨
+- /user/view.jsp: ìˆ˜ì • ë§í¬ì— ëŒ€í•œ request URIë¥¼ "/user/update" ë¡œ ìˆ˜ì •
