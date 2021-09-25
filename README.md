@@ -2,11 +2,11 @@
 Sample project for DBP class in 2021
 based on MVC architecture 
 
-#### update branch
+### update branch
 - branched from master 
 - integrates UpdateUserFormController & UpdateUserController
 
-#### master branch로부터 변경된 클래스 및 JSP
+__master branch로부터 변경된 클래스 및 JSP__
 
 - controller.RequestMapping -  _"/user/update"에 대한 request mapping 수정_
 - controller.user.UpdateUserFormController -  _UpdateUserController와 병합되고 삭제됨_
