@@ -1,5 +1,5 @@
 # UserMan2
-Sample project for DBP class in 2021
+Sample project for DBP class
 based on MVC architecture 
 
 ### update branch
